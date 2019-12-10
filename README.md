@@ -10,4 +10,4 @@ lunch omni_platina-eng
 
 export ALLOW_MISSING_DEPENDENCIES=true # Only if you use minimal twrp tree.
 
-make -j9 recoveryimage
+make -jX recoveryimage
